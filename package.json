@@ -1,0 +1,17 @@
+{
+  "name": "lib-flexible",
+  "version": "0.3.2",
+  "description": "移动端适配解决方案",
+  "main": "flexible.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "适配"
+  ],
+  "author": "",
+  "license": "ISC",
+  "__npminstall_done": "Thu Oct 24 2019 16:55:54 GMT+0800 (GMT+08:00)",
+  "_from": "lib-flexible@0.3.2",
+  "_resolved": "https://registry.npm.taobao.org/lib-flexible/download/lib-flexible-0.3.2.tgz"
+}
